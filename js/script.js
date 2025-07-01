@@ -10,8 +10,8 @@ const letters = document.querySelectorAll('.letter'),
 
 // Массив слов и соответствующих изображений.  
 const data = [
-  { word: 'жираф', image: "../images/img-words/jiraf.jpg", audio: '../audio/audio-words/жираф.mp3' },
-  { word: 'помидор', image: "../images/img-words/tomat.webp", audio: '../audio/audio-words/помидор.mp3' },
+  { word: 'жираф', image: "images/img-words/jiraf.jpg", audio: '../audio/audio-words/жираф.mp3' },
+  { word: 'помидор', image: "images/img-words/tomat.webp", audio: '../audio/audio-words/помидор.mp3' },
   { word: 'апельсин', image: "../images/img-words/orange.webp", audio: '../audio/audio-words/апельсин.mp3' },
   { word: 'дом', image: "../images/img-words/house.webp", audio: '../audio/audio-words/дом.mp3' },
   { word: 'юла', image: "../images/img-words/yula.webp", audio: '../audio/audio-words/юла.mp3' },
